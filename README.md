@@ -6,7 +6,7 @@ Passionate about building smart, real-world services that solve meaningful probl
 
 ### 👩‍💻 About Me
 - 🎓 Computer Science student @ Ewha Womans University  
-- 🌍 Exchange researcher @ NHL Stenden, Netherlands (Computer Vision & Deep Learning for X-ray, co-authored paper)  
+- 🌍 Exchange researcher @ NHL Stenden University, Netherlands (Computer Vision & Deep Learning for X-ray, authored paper)  
 - 💡 Passionate about turning ideas into polished services — from intuitive frontend experiences to scalable AI models and insightful data visualizations  
 - ✨ Positive energy + high responsibility + unstoppable curiosity = my daily fuel  
 
@@ -29,10 +29,11 @@ Passionate about building smart, real-world services that solve meaningful probl
 
 **Backend & AI**  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
 
 ---
 
